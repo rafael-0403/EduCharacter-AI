@@ -1,0 +1,7 @@
+{
+  "name": "EduCharacter AI - Learning Management System",
+  "description": "A comprehensive learning platform focused on AI-driven character assessment and soft skills development for students and teachers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
